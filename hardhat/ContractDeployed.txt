@@ -3,3 +3,6 @@ Krypto Devs Contract Address:
 
 New Contract:
 0x2FD18C05B679544822f445148175B0b844F071DC
+
+Contract 3 baseURI Build:
+0x8e35c6058ff25e617FA5dc5559439313Dd73Ee80
